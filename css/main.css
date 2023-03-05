@@ -1,0 +1,95 @@
+.site-header{
+    border-bottom: 1px solid #ebe7e7;
+
+}
+
+ul,li{
+    list-style: none;
+    padding-left: 0;
+}
+a{
+    text-decoration: none;
+}
+.icon1{
+    margin: 0;
+}
+.icon1::before{
+display: inline-block;
+ content:" ";
+ width: 25px;
+ height: 25px;
+ top: 0;
+ margin-right: 10px;
+ background-image: url(/images/—Pngtree—calendar\ time\ monthly\ calendar\ chart_5324170.png);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: contain;
+}
+.icon2{
+    margin: 0;
+}
+.icon2::before{
+display: inline-block;
+ content:" ";
+ width: 25px;
+ height: 25px;
+ top: 0;
+ margin-right: 10px;
+ background-image: url(/images/—Pngtree—3d\ brain\ male\ character\ reading_9009078.png);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: contain;
+}
+.icon3{
+    margin: 0;
+}
+.icon3::before{
+display: inline-block;
+ content:" ";
+ width: 25px;
+ height: 25px;
+ top: 0;
+ margin-right: 10px;
+ background-image: url(/images/icons8-earth-globe-100.png);
+ background-position: center center;
+ background-repeat: no-repeat;
+ background-size: contain;
+}
+.js-items{
+    max-width: 350px;
+    box-shadow: 0 0 10px 0.5px rgba(0,0,0,0.5);
+}
+.imageBox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* {
+    "author": "Chinua Achebe",
+    "country": "Nigeria",
+    "imageLink": "images/things-fall-apart.jpg",
+    "language": "English",
+    "link": "https://en.wikipedia.org/wiki/Things_Fall_Apart\n",
+    "pages": 209,
+    "title": "Things Fall Apart",
+    "year": 1958
+  }, */
